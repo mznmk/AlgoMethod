@@ -1,0 +1,9 @@
+# editor
+.vscode/
+
+# template
+Template
+
+# exe etc.
+a.out
+output.txt
