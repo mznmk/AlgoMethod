@@ -1,0 +1,14 @@
+2
+
+4 1 2
+xxox
+xxoo
+ooxx
+xoxx
+
+5 4 0
+xoooo
+oxooo
+ooxoo
+oooxo
+oooox
