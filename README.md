@@ -1,11 +1,10 @@
 # AlgoMethod
 
 
+## 💗 公式 💗
+
 AlgoMethod  
 https://algo-method.com/  
-
-
----
 
 
 ## 💗 コンテンツ一覧 💗
