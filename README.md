@@ -15,7 +15,7 @@ https://algo-method.com/
 https://algo-method.com/courses/1  
 
 
-### ⭐ 002 入力を受け取る ⭐
+### 💫 002 入力を受け取る 💫 ✅
 
 https://algo-method.com/courses/2  
 
@@ -49,8 +49,8 @@ https://algo-method.com/courses/5
 
 https://algo-method.com/courses/6  
 
- ⭐
-### ⭐ 018 ソートアルゴリズム
+
+### ⭐ 018 ソートアルゴリズム ⭐
 
 https://algo-method.com/courses/18  
 
